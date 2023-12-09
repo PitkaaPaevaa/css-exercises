@@ -1,0 +1,15 @@
+.eka,
+.toka
+{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.eka {
+    background-color: rgb(158, 190, 16);
+}
+
+.toka {
+   color: aliceblue;
+   background-color: rgb(47, 16, 182); 
+}
